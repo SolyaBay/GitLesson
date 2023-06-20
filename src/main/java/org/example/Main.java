@@ -6,9 +6,9 @@ public class Main {
         mainMethodShowInfo();
     }
     private static void mainMethodShowMessageAble() {
-        System.out.println("Hello able QA course\n");
+        System.out.println("Hello section 2\n");
     }
     private static void mainMethodShowInfo() {
-        System.out.println("new changes");
+        System.out.println("Text 2");
     }
 }
