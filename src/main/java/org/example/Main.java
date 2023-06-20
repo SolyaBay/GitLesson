@@ -6,9 +6,9 @@ public class Main {
         mainMethodShowInfo();
     }
     private static void mainMethodShowMessageAble() {
-        System.out.println("Hello section 2\n");
+        System.out.println("Hello branch 2\n");
     }
     private static void mainMethodShowInfo() {
-        System.out.println("Text 2");
+        System.out.println("new changes");
     }
 }
